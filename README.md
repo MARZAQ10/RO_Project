@@ -1,6 +1,6 @@
 <h1 align="left">Resolution of the agriculture-related problem using PuLP</h1>
 <div align="center">
-  <img src="https://img.freepik.com/vector-premium/agricultor-manejando-tractor-tierras-cultivo-fondo-colina-paisaje-granja-rural_40816-823.jpg?w=1800" width="60%"/> 
+  <img src="https://img.freepik.com/vector-premium/agricultor-manejando-tractor-tierras-cultivo-fondo-colina-paisaje-granja-rural_40816-823.jpg?w=1800" width="100%" height="300"/> 
 </div>
 <h3 align="left">Report</h3>
 
